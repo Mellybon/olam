@@ -57,7 +57,7 @@ button.no-btn {
     color: #e94d58;
     position: absolute;
     left: 50%;
-    bottom: 10px;        /* Fixed distance from the bottom */
-    right: 10px;         
+    bottom: 100px;        /* Fixed distance from the bottom */
+    right: 100px;         
     transform: translateX(-50%);
 }
